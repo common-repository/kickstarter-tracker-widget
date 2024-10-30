@@ -1,0 +1,35 @@
+.kickstarter-num {
+font-size: 48px;
+line-height: 45px;
+display: block;
+font-weight: bold;
+}
+
+.kickstarter-tag {
+color: #333;
+text-transform: lowercase;
+font-size: 14px;
+font-weight: bold;
+}
+
+.kickstarter-button {
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-o-border-radius: 5px;
+-ms-border-radius: 5px;
+-khtml-border-radius: 5px;
+color: #FFFFFF;
+text-decoration: none;
+background-color: #87c442;
+border-radius: 5px;
+display: -moz-inline-box;
+display: -moz-inline-stack;
+-moz-box-orient: vertical;
+display: inline-block;
+vertical-align: middle;
+zoom: 1;
+font-size: 18px;
+padding: 12px 25px;
+text-align: center;
+width: 190px;
+}
